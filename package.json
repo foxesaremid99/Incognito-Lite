@@ -1,7 +1,7 @@
 {
-  "name": "new-title-lite",
+  "name": "cyclic",
   "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included using BUFFY.",
+  "description": "Have fun with lifing",
   "type": "module",
   "scripts": {
     "start": "node index.js"
